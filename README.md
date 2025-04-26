@@ -2,7 +2,7 @@
 
 ## Day-1
 - Started with setting up the local environment for CUDA programming and ran a sample code for testing it.
-- Going through the Chapter-1 of PMPP book.
+- Going through the Chapter-1 of **Programming Massively Parallel Processors(PMPP)** book.
 
 ## Day-2
 - Going through the Chapter-1 of PMPP book. Learned about how grid, blocks and threads works in GPU.
