@@ -1,4 +1,4 @@
-## Learning of GPU programming for 100 Days challenge
+## 100 DAYS OF CUDA/GPU CHALLENGE
 
 ## Day-1
 - Started with setting up the local environment for CUDA programming and ran a sample code for testing it.
