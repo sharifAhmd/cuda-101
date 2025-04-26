@@ -6,6 +6,6 @@
 
 ## Day-2
 - Going through the Chapter-1 of PMPP book. Learned about how grid, blocks and threads works in GPU.
-- Coded scaler multiplications  based on the knowledge learned.
+- Tried out scaler multiplications, element-wise square  based on the learning.
 - Will continue with PMPP books and the examples.
 
