@@ -9,3 +9,7 @@
 - Tried out scaler multiplications, element-wise square  based on the learning.
 - Will continue with PMPP books and the examples.
 
+## Day-3
+- Going through the Chapter-1 of PMPP book. 
+- Worked on vector multiplications code based on the learning.
+- Will continue with PMPP books and the examples.
