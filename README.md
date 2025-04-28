@@ -10,6 +10,11 @@
 - Will continue with PMPP books and the examples.
 
 ## Day-3
-- Going through the Chapter-1 of PMPP book. 
+- Going through the Chapter-2 of PMPP book. 
 - Worked on vector multiplications code based on the learning.
+- Will continue with PMPP books and the examples.
+
+## Day-4
+- Going through the Chapter-3 of PMPP book on parallel execution. 
+- Implemented RGB-G-RGB code based on the learning.
 - Will continue with PMPP books and the examples.
