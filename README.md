@@ -16,5 +16,10 @@
 
 ## Day-4
 - Going through the Chapter-3 of PMPP book on parallel execution. 
-- Implemented RGB-G-RGB code based on the learning.
+- Implemented RGB-GRAY-RGB code based on the learning.
+- Will continue with PMPP books and the examples.
+
+## Day-5
+- Completed Chapter-3 of PMPP book on parallel execution. 
+- Tried out image_blur code based on the learning.
 - Will continue with PMPP books and the examples.
