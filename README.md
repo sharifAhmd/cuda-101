@@ -40,5 +40,5 @@
 
 
 ## Day-9
-- Gone through Chapter-6 of PMPP book on Numerical considerations. 
-- Tried out how adding number in different order effects the output.
+- Going through Chapter-6 of PMPP book on Numerical considerations. 
+- Tried out how adding number in different order affects the output.
