@@ -33,3 +33,8 @@
 - Going through Chapter-5 of PMPP book on Performance considerations. 
 - Implemented parallel reduction based on learning.
 - Will continue with PMPP books and the examples.
+
+## Day-8
+- Done with Chapter-5 of PMPP book on Performance considerations. 
+- Implemented prefix sum using shared memory based on learning.
+- Will continue with PMPP books and the examples.
