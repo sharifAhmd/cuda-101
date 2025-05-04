@@ -42,3 +42,7 @@
 ## Day-9
 - Going through Chapter-6 of PMPP book on Numerical considerations. 
 - Tried out how adding number in different order affects the output.
+
+## Day-10
+- Going through Chapter-6 of PMPP book on Numerical considerations. 
+- Implemented accumulated error (naive vs. Kahan) for large number.  
