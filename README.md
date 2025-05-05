@@ -46,3 +46,7 @@
 ## Day-10
 - Going through Chapter-6 of PMPP book on Numerical considerations. 
 - Implemented accumulated error (naive vs. Kahan) for large number.  
+
+## Day-11
+- Done with Chapter-6 of PMPP book on Numerical considerations. 
+- Implemented IEEE754 Bit Extraction for sign, exponent and mantissa bits.  
