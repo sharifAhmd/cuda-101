@@ -50,3 +50,7 @@
 ## Day-11
 - Done with Chapter-6 of PMPP book on Numerical considerations. 
 - Implemented IEEE754 Bit Extraction for sign, exponent and mantissa bits.  
+
+## Day-12
+- Done with Chapter-7 of PMPP book on Parallel patterns: convolution. 
+- Implemented 1D-convolution to test it out.  
