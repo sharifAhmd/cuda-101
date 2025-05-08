@@ -58,3 +58,7 @@
 ## Day-13
 - Going through  Chapter-7 of PMPP book on Parallel patterns: convolution. 
 - Implemented 2D-convolution to test it out.  
+
+## Day-14
+- Done with Chapter-7 of PMPP book on Parallel patterns: convolution. 
+- Implemented 2D-Gaussian Blur to test it out. 
