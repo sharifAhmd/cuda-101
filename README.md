@@ -62,3 +62,7 @@
 ## Day-14
 - Done with Chapter-7 of PMPP book on Parallel patterns: convolution. 
 - Implemented 2D-Gaussian Blur to test it out. 
+
+## Day-15
+- Started Chapter-8 of PMPP book on Parallel patterns: prefix sum. 
+- Implemented prefix sum with scan to test it out. 
