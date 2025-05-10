@@ -66,3 +66,7 @@
 ## Day-15
 - Started Chapter-8 of PMPP book on Parallel patterns: prefix sum. 
 - Implemented prefix sum with scan to test it out. 
+
+## Day-16
+- Going through Chapter-8 of PMPP book on Parallel patterns: prefix sum. 
+- Implemented value compaction scan to test it out. 
