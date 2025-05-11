@@ -70,3 +70,7 @@
 ## Day-16
 - Going through Chapter-8 of PMPP book on Parallel patterns: prefix sum. 
 - Implemented value compaction scan to test it out. 
+
+## Day-17
+- Doing a recap of PMPP book. 
+- Implemented flag indexing with exclusive scan to test it out. 
