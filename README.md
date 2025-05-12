@@ -74,3 +74,7 @@
 ## Day-17
 - Doing a recap of PMPP book. 
 - Implemented flag indexing with exclusive scan to test it out. 
+
+## Day-18
+- Going through chapter 9. 
+- Implemented stream compaction for removing negative values. 
