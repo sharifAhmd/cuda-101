@@ -78,3 +78,7 @@
 ## Day-18
 - Going through chapter 9. 
 - Implemented stream compaction for removing negative values. 
+
+## Day-19
+- Going through chapter 9. 
+- Implemented a histogram and computing its scan-based CDF. 
