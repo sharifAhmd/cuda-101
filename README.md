@@ -82,3 +82,7 @@
 ## Day-19
 - Going through chapter 9. 
 - Implemented a histogram and computing its scan-based CDF. 
+
+## Day-20
+- Done with chapter 9 and Going through chapter 10. 
+- Implemented a sparse matrix-vector multiplication using CSR. 
