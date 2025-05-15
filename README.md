@@ -86,3 +86,7 @@
 ## Day-20
 - Done with chapter 9 and Going through chapter 10. 
 - Implemented a sparse matrix-vector multiplication using CSR. 
+
+## Day-21
+- Going through chapter 10. 
+- Implemented a sparse matrix-vector transposition. 
