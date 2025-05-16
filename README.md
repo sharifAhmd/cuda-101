@@ -90,3 +90,7 @@
 ## Day-21
 - Going through chapter 10. 
 - Implemented a sparse matrix-vector transposition. 
+
+## Day-22
+- Going through chapter 11. 
+- Implemented a parallel merge sort. 
