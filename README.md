@@ -94,3 +94,7 @@
 ## Day-22
 - Going through chapter 11. 
 - Implemented a parallel merge sort. 
+
+## Day-23
+- Going through chapter 11. 
+- Implemented a parallel merge sort to sort two different arrays.
