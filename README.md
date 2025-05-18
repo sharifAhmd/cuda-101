@@ -88,7 +88,7 @@
 - Implemented a sparse matrix-vector multiplication using CSR. 
 
 ## Day-21
-- Going through chapter 10. 
+- Done with chapter 10. 
 - Implemented a sparse matrix-vector transposition. 
 
 ## Day-22
@@ -98,3 +98,7 @@
 ## Day-23
 - Going through chapter 11. 
 - Implemented a parallel merge sort to sort two different arrays.
+
+## Day-24
+- Going through chapter 12. 
+- Implemented Breadth first Search.
