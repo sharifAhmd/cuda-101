@@ -102,3 +102,7 @@
 ## Day-24
 - Going through chapter 12. 
 - Implemented Breadth first Search.
+
+## Day-25
+- Going through chapter 12. 
+- Implemented Parallel Topological Sort.
