@@ -107,6 +107,10 @@
 - Going through chapter 12. 
 - Implemented Parallel Topological Sort.
 
-## Day-25
+## Day-26
 - Done with chapter 12. 
 - Implemented shortest path using bellman ford algorithm.
+
+## Day-27
+- Reviewed previous chapters. 
+- Implemented page-rank algorithm.
