@@ -114,3 +114,7 @@
 ## Day-27
 - Reviewed previous chapters. 
 - Implemented page-rank algorithm.
+
+## Day-28
+- Started chapter 13. 
+- Implemented recursive reduction.
