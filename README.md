@@ -118,3 +118,7 @@
 ## Day-28
 - Started chapter 13. 
 - Implemented recursive reduction.
+
+## Day-29
+- Going through chapter 13. 
+- Implemented recursive quick sort.
