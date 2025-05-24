@@ -122,3 +122,7 @@
 ## Day-29
 - Going through chapter 13. 
 - Implemented recursive quick sort.
+
+## Day-30
+- Going through chapter 13. 
+- Implemented recursive vector sum.
