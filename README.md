@@ -126,3 +126,7 @@
 ## Day-30
 - Going through chapter 13. 
 - Implemented recursive vector sum.
+
+## Day-31
+- Going through chapter 14. 
+- Implemented vector based templating.
