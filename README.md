@@ -129,4 +129,8 @@
 
 ## Day-31
 - Going through chapter 14. 
-- Implemented vector based templating.
+- Implemented templating based vector operations.
+
+## Day-32
+- Going through chapter 14. 
+- Implemented simplified gridding for cuda.
