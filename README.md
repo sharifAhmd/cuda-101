@@ -134,3 +134,7 @@
 ## Day-32
 - Going through chapter 14. 
 - Implemented simplified gridding for cuda.
+
+## Day-33
+- Going through chapter 14. 
+- Implemented density compensation & windowed gridding for NUFFT.
