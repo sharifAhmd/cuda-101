@@ -138,3 +138,7 @@
 ## Day-33
 - Going through chapter 14. 
 - Implemented density compensation & windowed gridding for NUFFT.
+
+## Day-34
+- Going through chapter 15. 
+- Implemented pairwise_distance .
