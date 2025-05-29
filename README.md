@@ -142,3 +142,7 @@
 ## Day-34
 - Going through chapter 15. 
 - Implemented pairwise_distance .
+
+## Day-35
+- Going through chapter 15. 
+- Implemented neighbor list.
