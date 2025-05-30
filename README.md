@@ -146,3 +146,7 @@
 ## Day-35
 - Going through chapter 15. 
 - Implemented neighbor list.
+
+## Day-36
+- Going through chapter 16. 
+- Implemented basic 2D CNN.
