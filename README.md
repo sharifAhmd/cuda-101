@@ -150,3 +150,8 @@
 ## Day-36
 - Going through chapter 16. 
 - Implemented basic 2D CNN.
+
+## Day-37
+- Going through chapter 16. 
+- Implemented dense layer CNN.
+
