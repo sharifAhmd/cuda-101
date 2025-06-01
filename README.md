@@ -155,3 +155,6 @@
 - Going through chapter 16. 
 - Implemented dense layer CNN.
 
+## Day-38
+- Going through chapter 17. 
+- Implemented parallel min max finder.
