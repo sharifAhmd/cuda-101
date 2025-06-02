@@ -158,3 +158,7 @@
 ## Day-38
 - Going through chapter 17. 
 - Implemented parallel min max finder.
+
+## Day-39
+- Going through chapter 18. 
+- Implemented MPI (Message Passing Interface) based vector sum.
