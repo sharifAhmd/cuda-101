@@ -162,3 +162,7 @@
 ## Day-39
 - Going through chapter 18. 
 - Implemented MPI (Message Passing Interface) based vector sum.
+
+## Day - 40
+- Going through chapter 18. 
+- Implemented 1D heat diffusion with MPI.
