@@ -166,3 +166,7 @@
 ## Day - 40
 - Going through chapter 18. 
 - Implemented 1D heat diffusion with MPI.
+
+## Day - 41
+- Going through chapter 18. 
+- Implemented Matrix Addition Across Multiple GPUs with MPI.
