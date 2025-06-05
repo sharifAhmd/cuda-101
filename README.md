@@ -170,3 +170,7 @@
 ## Day - 41
 - Going through chapter 18. 
 - Implemented Matrix Addition Across Multiple GPUs with MPI.
+
+## Day - 42
+- Going through chapter 19. 
+- Implemented heat diffusion in 2D using OpenACC
