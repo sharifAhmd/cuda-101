@@ -174,3 +174,7 @@
 ## Day - 42
 - Going through chapter 19. 
 - Implemented heat diffusion in 2D using OpenACC
+
+## Day - 43
+- Going through chapter 19. 
+- Implemented matrix transpose using OpenACC
