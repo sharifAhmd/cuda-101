@@ -178,3 +178,7 @@
 ## Day - 43
 - Going through chapter 19. 
 - Implemented matrix transpose using OpenACC
+
+## Day - 44
+- Going through chapter 19. 
+- Implemented matrix multiplication using OpenACC
