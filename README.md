@@ -182,3 +182,6 @@
 ## Day - 44
 - Going through chapter 19. 
 - Implemented matrix multiplication using OpenACC
+
+## Day - 45 
+- Implemented GELU layer normalization.
