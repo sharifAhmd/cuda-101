@@ -184,4 +184,7 @@
 - Implemented matrix multiplication using OpenACC
 
 ## Day - 45 
-- Implemented GELU layer normalization.
+- Implemented GELU activation function.
+
+## Day - 46 
+- Implemented layer normalization.
