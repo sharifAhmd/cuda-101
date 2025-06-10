@@ -188,3 +188,6 @@
 
 ## Day - 46 
 - Implemented layer normalization.
+
+## Day - 47
+- Implemented biotonic sort.
