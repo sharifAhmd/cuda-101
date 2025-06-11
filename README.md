@@ -191,3 +191,6 @@
 
 ## Day - 47
 - Implemented biotonic sort.
+
+## Day - 48
+- Implemented minimal attention block of LLM.
