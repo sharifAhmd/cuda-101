@@ -194,3 +194,6 @@
 
 ## Day - 48
 - Implemented minimal attention block of LLM.
+
+## Day - 48
+- Implemented optimized attention block of LLM using CuBLAS.
