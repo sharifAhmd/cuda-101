@@ -195,5 +195,8 @@
 ## Day - 48
 - Implemented minimal attention block of LLM.
 
-## Day - 48
+## Day - 49
 - Implemented optimized attention block of LLM using CuBLAS.
+
+## Day - 50
+- Implemented EM(Expectation-Maximization) kernel.
