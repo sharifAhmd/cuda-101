@@ -200,3 +200,6 @@
 
 ## Day - 50
 - Implemented EM(Expectation-Maximization) kernel.
+
+## Day - 51
+- Implemented Kullback-Leibler (KL) divergence kernel.
