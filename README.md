@@ -203,3 +203,6 @@
 
 ## Day - 51
 - Implemented Kullback-Leibler (KL) divergence kernel.
+
+## Day - 52
+- Implemented AdaHessian optimizer kernel kernel.
