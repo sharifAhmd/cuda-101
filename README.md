@@ -205,4 +205,7 @@
 - Implemented Kullback-Leibler (KL) divergence kernel.
 
 ## Day - 52
-- Implemented AdaHessian optimizer kernel kernel.
+- Implemented AdaHessian optimizer kernel.
+
+## Day - 53
+- Implemented Mish activation function.
