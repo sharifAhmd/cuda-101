@@ -209,3 +209,9 @@
 
 ## Day - 53
 - Implemented Mish activation function.
+
+## Day - 54
+- Implemented RNN kernel.
+
+## Day - 55
+- Implemented LSTM kernel.
