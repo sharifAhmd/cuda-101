@@ -215,3 +215,6 @@
 
 ## Day - 55
 - Implemented LSTM kernel.
+
+## Day - 56
+- Implemented different base matrix multiplication.
