@@ -218,3 +218,6 @@
 
 ## Day - 56
 - Implemented different base matrix multiplication.
+
+## Day - 57
+- Implemented ELU activation function.
