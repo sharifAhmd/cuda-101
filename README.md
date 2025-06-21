@@ -221,3 +221,6 @@
 
 ## Day - 57
 - Implemented ELU activation function.
+
+## Day - 58
+- Implemented Leaky-relu activation function.
