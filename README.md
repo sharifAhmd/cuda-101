@@ -224,3 +224,6 @@
 
 ## Day - 58
 - Implemented Leaky-relu activation function.
+
+## Day - 59
+- Implemented total variation distance function.
