@@ -227,3 +227,6 @@
 
 ## Day - 59
 - Implemented total variation distance function.
+
+## Day - 60
+- Implemented product over dimension.
